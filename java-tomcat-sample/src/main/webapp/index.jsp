@@ -4,5 +4,6 @@
 <p>Jenkins training...</p>
 <p>git training...</p>
 <p>deploy to staging environment...</p>
+<p>deploy to production environment...</p>
 </body>
 </html>
